@@ -1,0 +1,1 @@
+execute run execute run data merge entity @s { ExplosionRadius: 1b }
